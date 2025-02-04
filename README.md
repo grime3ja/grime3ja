@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**grime3ja/grime3ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Jacob Grimes
+- I am a student at James Madison University, studying Computer Science and set to graduate December 2025.
+- I have been working studiously in this field since my freshman year of high school, and have written different forms of software since my senior year of high school.
+  - These include:
+      - Working with a team developing software through Agile methodologies (Scrum)
+      - Working with a team developing a web-based application with a database backend
+      - Working with a partner developing a web-based application using third party APIs
+  - I am currently in a class which is teaching me the server side of full stack development, and am also working on a personal project which involves the use of third party APIs
+- Experience with:
+  - Programming Languages: Proficient in Java, Intermediate in Python, MySQL, C, JavaScript, Beginner in C#, PostgreSQL, HTML, CSS
+  - Technologies: GitHub/Git
+  - Methodologies: Scrum Agile Software Methodology
+  - IDEs: Visual Studio Code, IntelliJ, Eclipse, Android Studio
+  - Platforms: Windows, MacOS, Exposure to Linux
+- In my free time, I enjoy playing my electric and acoustic guitar, as well as watching the local football, hockey, and baseball teams. And of course, Go Dukes!
