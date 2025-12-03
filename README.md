@@ -11,7 +11,7 @@
           - [ProjectAutomation](https://github.com/grime3ja/ProjectAutomation): A project where I take menial tasks that I like to do daily and send it to an email group of different people. Finished November 2025.
       - Future Projects:
           - Mobile app that will serve as a grocery list for users. Inspiration behind this is my parents are always printing out grocery lists, and paper is a thing of the past.
-          - Self hosted email server. Inspiration behind this was when Google announced that they can read emails to train their AI. I do not like not having privacy, so they can't do that with my own email server.
+          - Self hosted email server. Inspiration behind this was when Google announced that they can read emails to train their AI. I do not like not having my privacy put at rist, so they can't do that with my own email server.
           - Self hosted web server. Inspiration behind this is that I am cheap, and do not want to pay to host my websites.
 - Experience with:
   - Programming Languages: Proficient in C, Java, Python, Intermediate in MySQL, Rust, Ruby, Haskell, JavaScript, Beginner in C#, PostgreSQL, HTML, CSS
