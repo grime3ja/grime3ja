@@ -13,6 +13,7 @@
           - Mobile app that will serve as a grocery list for users. Inspiration behind this is my parents are always printing out grocery lists, and paper is a thing of the past.
           - Self hosted email server. Inspiration behind this was when Google announced that they can read emails to train their AI. I do not like not having my privacy put at rist, so they can't do that with my own email server.
           - Self hosted web server. Inspiration behind this is that I am cheap, and do not want to pay to host my websites.
+          - DumbaSH. A CLI that will be able to do typical Linux-like commands and also run some of my own projects that run in the command line. Inspiration behind this is I have always wanted something that can natively run my projects that I write, so why not write my own command line.
 - Experience with:
   - Programming Languages: Proficient in C, Java, Python, Intermediate in MySQL, Rust, Ruby, Haskell, JavaScript, Beginner in C#, PostgreSQL, HTML, CSS
   - Technologies: GitHub/Git
