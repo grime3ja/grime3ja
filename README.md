@@ -6,7 +6,13 @@
       - Working with a team developing software through Agile methodologies (Scrum)
       - Working with a team developing a web-based application with a database backend
       - Working with a partner developing a web-based application using third party APIs
-  - I am currently in a class which is teaching me the server side of full stack development, and am also working on a personal project which involves the use of third party APIs
+  - I also have some personal projects I have worked on and plan to work on in the futre including
+      - Completed:
+          - [ProjectAutomation](https://github.com/grime3ja/ProjectAutomation): A project where I take menial tasks that I like to do daily and send it to an email group of different people. Finished November 2025.
+      - Future Projects:
+          - Mobile app that will serve as a grocery list for users. Inspiration behind this is my parents are always printing out grocery lists, and paper is a thing of the past.
+          - Self hosted email server. Inspiration behind this was when Google announced that they can read emails to train their AI. I do not like not having privacy, so they can't do that with my own email server.
+          - Self hosted web server. Inspiration behind this is that I am cheap, and do not want to pay to host my websites.
 - Experience with:
   - Programming Languages: Proficient in C, Java, Python, Intermediate in MySQL, Rust, Ruby, Haskell, JavaScript, Beginner in C#, PostgreSQL, HTML, CSS
   - Technologies: GitHub/Git
