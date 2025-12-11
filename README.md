@@ -21,7 +21,6 @@
       - x86 Elf File Interpreter
       - More available on request, these are just the main projects I have done in the fields I am interested in
 - Experience with:
-  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grime3ja&theme=tokyonight)
   - Programming Languages: Proficient in C, Java, Python, Intermediate in MySQL, Rust, Ruby, Haskell, JavaScript, Beginner in C#, PostgreSQL, HTML, CSS
   - Technologies: GitHub/Git
   - Methodologies: Scrum Agile Software Methodology
