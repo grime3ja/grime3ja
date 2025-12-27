@@ -9,8 +9,9 @@
   - I also have some personal projects I have worked on and plan to work on in the futre including
       - Completed:
           - [ProjectAutomation](https://github.com/grime3ja/ProjectAutomation): A project where I take menial tasks that I like to do daily and send it to an email group of different people. Finished November 2025.
-      - Future Projects:
-          - Mobile app that will serve as a grocery list for users. Inspiration behind this is my parents are always printing out grocery lists, and paper is a thing of the past.
+      - Current / Future Projects:
+          - Mobile app that will serve as a grocery list for users. Inspiration behind this is my parents are always printing out grocery lists, and paper is a thing of the past (Dec 2025-Present).
+          - "Busy Light". A RGB light connected to a Raspberry Pi which will denote if I am available or busy while working remotely or on a project. The Raspberry Pi will be setup to accept a UDP sockect from other devices, these devices will send data as to what the status should be. Later stages will enable notifications from the Raspberry Pi to my other device if someone is asking for me when I'm busy.
           - Self hosted email server. Inspiration behind this was when Google announced that they can read emails to train their AI. I do not like not having my privacy put at rist, so they can't do that with my own email server.
           - Self hosted web server. Inspiration behind this is that I am cheap, and do not want to pay to host my websites.
           - grimeSH. A CLI that will be able to do typical Linux-like commands and also run some of my own projects that run in the command line. Inspiration behind this is I have always wanted something that can natively run my projects that I write, so why not write my own command line.
