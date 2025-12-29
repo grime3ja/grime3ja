@@ -10,7 +10,7 @@
       - Completed:
           - [ProjectAutomation](https://github.com/grime3ja/ProjectAutomation): A project where I take menial tasks that I like to do daily and send it to an email group of different people. Finished November 2025.
       - Current / Future Projects:
-          - Mobile app that will serve as a grocery list for users. Inspiration behind this is my parents are always printing out grocery lists, and paper is a thing of the past (Dec 2025-Present).
+          - [BetterList](https://github.com/grime3ja/BetterList): An Android mobile app that will serve as a grocery list for users. Inspiration behind this is my parents are always printing out grocery lists, and paper is a thing of the past (Dec 2025-Present).
           - "Busy Light". A RGB light connected to a Raspberry Pi which will denote if I am available or busy while working remotely or on a project. The Raspberry Pi will be setup to accept a UDP sockect from other devices, these devices will send data as to what the status should be. Later stages will enable notifications from the Raspberry Pi to my other device if someone is asking for me when I'm busy.
           - Self hosted email server. Inspiration behind this was when Google announced that they can read emails to train their AI. I do not like not having my privacy put at rist, so they can't do that with my own email server.
           - Self hosted web server. Inspiration behind this is that I am cheap, and do not want to pay to host my websites.
@@ -22,7 +22,7 @@
       - x86 Elf File Interpreter
       - More available on request, these are just the main projects I have done in the fields I am interested in
 - Experience with:
-    - [![Top Langs](https://github-stats-ten-sigma.vercel.app/api/top-langs/?username=grime3ja&exclude_repo=github-stats,github-readme-stats,bird-flock,mdn-content&langs-count=8)](https://github.com/grime3ja/github-readme-stats)
+    - [![Top Langs](https://github-stats-ten-sigma.vercel.app/api/top-langs/?username=grime3ja&exclude_repo=github-stats,github-readme-stats,bird-flock,mdn-content&langs_count=8)](https://github.com/grime3ja/github-readme-stats)
   - Programming Languages: Proficient in C, Java, Python, Intermediate in MySQL, Rust, Ruby, Haskell, JavaScript, Beginner in C#, PostgreSQL, HTML, CSS
   - Technologies: GitHub/Git
   - Methodologies: Scrum Agile Software Methodology
